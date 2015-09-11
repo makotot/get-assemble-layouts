@@ -1,0 +1,27 @@
+{
+  "name": "get-assemble-layouts",
+  "version": "0.0.1",
+  "description": "Get assemble layout files",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "author": "makotot",
+  "license": "MIT",
+  "keywords": [
+    "assemble",
+    "layout"
+  ],
+  "dependencies": {
+    "fs-utils": "^0.6.0"
+  },
+  "devDependencies": {
+    "eslint-config-makotot": "0.0.1",
+    "grunt": "^0.4.5",
+    "grunt-assemble": "^0.4.0",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-eslint": "^17.1.0",
+    "jit-grunt": "^0.9.1",
+    "time-grunt": "^1.2.1"
+  }
+}
