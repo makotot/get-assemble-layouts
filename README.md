@@ -6,7 +6,7 @@
 [![devDependencies](http://img.shields.io/david/dev/makotot/get-assemble-layouts.svg?style=flat-square)](https://github.com/makotot/get-assemble-layouts)
 [![License](http://img.shields.io/npm/l/get-assemble-layouts.svg?style=flat-square)](https://github.com/makotot/get-assemble-layouts)
 
-> Get assemble layout files.
+> Get [assemble](http://assemble.io/) layout files.
 
 
 ## Install

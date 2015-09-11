@@ -7,6 +7,10 @@
     "test": "grunt test"
   },
   "author": "makotot",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/makotot/get-assemble-layouts.git"
+  },
   "license": "MIT",
   "keywords": [
     "assemble",
