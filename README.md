@@ -36,4 +36,7 @@ module.exports.options = {
 };
 ```
 
-## MIT
+
+## License
+
+MIT
