@@ -10,7 +10,7 @@ module.exports = function (params, cb) {
   var allLayouts = assembleOptions.pages.map(function (page) {
     var filePath = page.data.layout ? path.resolve(layoutDir, page.data.layout) : defaultLayout;
 
-    return fsUtils.relative(__dirname, filePath);
+    return fsUtils.relative(process.cwd(), filePath);
   });
 
   var layouts = allLayouts.filter(function (item, idx) {
